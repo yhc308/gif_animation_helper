@@ -2,9 +2,9 @@
 ## GIF 애니메이션 샘플러 / 딜레이 출력기 및 애니메이션 스플리터 통합 개발버전
 
 ### 버전리스트
-- Gif_Animation_Sampler_v0500.py _프리뷰 영역 작업 완료
-- Gif_Animation_Sampler_v0511.py _전체 버튼 시각효과 추가
-- Gif_Animation_Sampler_v0515.py _프레임 설명 미리보기 영역 복사기능 개선
+> - Gif_Animation_Sampler_v0500.py _프리뷰 영역 작업 완료
+> - Gif_Animation_Sampler_v0511.py _전체 버튼 시각효과 추가
+> - Gif_Animation_Sampler_v0515.py _프레임 설명 미리보기 영역 복사기능 개선
 
 ---
 
