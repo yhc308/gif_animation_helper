@@ -7,6 +7,7 @@
 > - Gif_Animation_Sampler_v0515.py _프레임 설명 미리보기 영역 복사기능 개선
 > - Gif_Animation_Sampler_v0518.py _저장 확인 알림 조건 개선
 > - Gif_Animation_Sampler_v0520.py _확대 축소 버튼 버그 수정
+> - Gif_Animation_Sampler_v0521.py _GIF 해상도 변경에 따른 프리뷰 기준점 변동 버그
 
 ---
 
@@ -27,5 +28,4 @@
 
 ### 현재까지 발견된 버그
 
-- 프리뷰 기준점 변경 버그
-    - 새로운 GIF 불러올 시, 프리뷰 영역 초기 기준점이 제일 컸던 픽셀 사이즈 기준으로 유지되는 버그가 있음.
+---
